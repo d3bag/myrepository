@@ -14,7 +14,7 @@ namespace StudyCons
             Output();
 
             linkedList.Remove("Sima");
-            Output();
+            Output(); //123
         }
         static void Output()
         {
